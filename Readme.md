@@ -23,10 +23,10 @@ Connect With me on Following Platforms:
 ## 📈 GitHub Stats and Top Languages
 
 <p align="center">
-  <img src="[[![GitHub Streak](https://github-readme-streak-stats-ebon-xi.vercel.app?user=Ankush-Verma-2807&theme=discord-old-blurple)](https://git.io/streak-stats)">
+  <img src="https://github-readme-streak-stats-ebon-xi.vercel.app?user=Ankush-Verma-2807&theme=discord-old-blurple)](https://git.io/streak-stats">
 </p>
 <p align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats-ebon-xi.vercel.app?user=Ankush-Verma-2807&theme=discord-old-blurple)](https://git.io/streak-stats)">
+  <img src="https://github-readme-streak-stats-ebon-xi.vercel.app?user=Ankush-Verma-2807&theme=discord-old-blurple)](https://git.io/streak-stats">
 </p>
 
 ---
