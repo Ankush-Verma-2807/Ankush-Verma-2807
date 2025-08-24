@@ -1,4 +1,5 @@
-#👋 Hi, I’m Ankush Verma — a Data Analyst | Business Intelligence Enthusiast | MIS & Reporting Specialist.
+# Hi, I’m Ankush Verma
+A Data Analyst | Business Intelligence Enthusiast | MIS & Reporting Specialist.
 
 🔹 Skilled in Power BI, SQL, Advanced Excel, Google Sheets Automation, and Data Visualization
 🔹 Experienced in building interactive dashboards, automated MIS reports, and CRM reporting systems
