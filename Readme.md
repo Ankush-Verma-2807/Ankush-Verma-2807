@@ -1,18 +1,21 @@
-# Ankush Verma
+#👋 Hi, I’m Ankush Verma — a Data Analyst | Business Intelligence Enthusiast | MIS & Reporting Specialist.
 
-## About Me
+🔹 Skilled in Power BI, SQL, Advanced Excel, Google Sheets Automation, and Data Visualization
+🔹 Experienced in building interactive dashboards, automated MIS reports, and CRM reporting systems
+🔹 Passionate about transforming raw datasets into actionable insights that drive business growth and decision-making
+🔹 Conducted corporate-style training in Data Analytics & LinkedIn Optimization for 400+ students and professionals
+🔹 Recognized as LinkedIn Top Voice (2X) in Data Analytics & Visualization
 
-Welcome to my Profile!
+🚀 What you’ll find here:
 
-I am a data analyst and currently pursuing Bachelors in Business Administration from [Geeta University](https://geetauniversity.edu.in/). I have been doing freelancing in data analytics and MIS Excel Reporting as well as data cleaning task on several freelancing platforms including Fiverr, Upwork, and LinkedIn too. 
+- Power BI dashboards showcasing real-world analytics projects
+- SQL query scripts for sales, finance, and customer analytics
+- Excel dashboards with automation (Pivot Tables, Power Query, VBA)
+- End-to-end case studies: from raw data → cleaning → visualization → insights
 
-I have done various projects in data anlytics like Sales Analysis, Business Operation Analysis, HR Employee Analysis, Mutual Fund Analysis, E-Commerce Sales Analysis, ICC Cricket World Cup 2023 Analysis, and lot more.  
+📌 Current Focus: Expanding expertise in BI solutions, reporting automation, and scalable analytics for business transformation.
 
-The tool I frequently use for the projects are MS Excel, Power BI, and SQL. Hence I have good hand-ons experience in Data Analysis, Data Visualization, Data Cleaning, Report Creation, Data Modelling, Data Interpretation, and Data Management. 
-
-I welcome you to explore my different portfolio projects I have created. I am open for any opportunity and collaborative projects.
-
-## Lets Connect
+🤝 Open to collaborations in Data Analytics, Business Intelligence, and Corporate Training Projects.
 
 <!-- Badges -->
 
